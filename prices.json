@@ -1,0 +1,273 @@
+{
+  "gpt-6.1-sol": {
+    "input": 2.0,
+    "cached": 0.1,
+    "write": 2.5,
+    "output": 10.0,
+    "source": "https://developers.openai.com/api/docs/models/gpt-6.1-sol",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 4.0,
+        "cached": 0.2,
+        "write": 5.0,
+        "output": 20.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    }
+  },
+  "gpt-6-astra": {
+    "input": 10.0,
+    "cached": 1.0,
+    "write": 12.5,
+    "output": 50.0,
+    "source": "https://developers.openai.com/api/docs/models/gpt-6-astra",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 20.0,
+        "cached": 2.0,
+        "write": 25.0,
+        "output": 100.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    }
+  },
+  "gpt-6-luna": {
+    "input": 0.1,
+    "cached": 0.01,
+    "write": 0.125,
+    "output": 0.5,
+    "source": "https://developers.openai.com/api/docs/models/gpt-6-luna",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 0.2,
+        "cached": 0.02,
+        "write": 0.25,
+        "output": 1.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    }
+  },
+  "gpt-6-sol": {
+    "input": 2.0,
+    "cached": 0.2,
+    "write": 2.5,
+    "output": 10.0,
+    "source": "https://developers.openai.com/api/docs/models/gpt-6-sol",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 4.0,
+        "cached": 0.4,
+        "write": 5.0,
+        "output": 20.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    }
+  },
+  "gpt-5.6-sol": {
+    "input": 4.0,
+    "cached": 0.4,
+    "output": 20.0,
+    "write": 4.0,
+    "source": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 8.0,
+        "cached": 0.8,
+        "output": 40.0,
+        "write": 8.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    }
+  },
+  "gpt-5.6-terra": {
+    "input": 2.0,
+    "cached": 0.2,
+    "output": 12.0,
+    "write": 2.0,
+    "source": "https://developers.openai.com/api/docs/models/gpt-5.6-terra",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 4.0,
+        "cached": 0.4,
+        "output": 24.0,
+        "write": 4.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    }
+  },
+  "gpt-5.6-luna": {
+    "input": 0.2,
+    "cached": 0.02,
+    "output": 1.2,
+    "write": 0.2,
+    "source": "https://developers.openai.com/api/docs/models/gpt-5.6-luna",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 0.4,
+        "cached": 0.04,
+        "output": 2.4,
+        "write": 0.4,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    }
+  },
+  "gpt-5.5": {
+    "input": 5.0,
+    "cached": 0.5,
+    "output": 30.0,
+    "write": 5.0,
+    "source": "https://developers.openai.com/api/docs/models/gpt-5.5",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 10.0,
+        "cached": 1.0,
+        "output": 60.0,
+        "write": 10.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    }
+  },
+  "gpt-5.4": {
+    "input": 2.5,
+    "cached": 0.25,
+    "output": 15.0,
+    "write": 2.5,
+    "source": "https://developers.openai.com/api/docs/models/gpt-5.4",
+    "verified": "2026-10-02",
+    "long_threshold": 272000
+  },
+  "gpt-5.4-mini": {
+    "input": 0.75,
+    "cached": 0.075,
+    "write": 0.75,
+    "output": 4.5,
+    "long_threshold": 0,
+    "source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini",
+    "verified": "2026-10-02"
+  },
+  "gpt-daybreak-blue-latest": {
+    "input": 2.0,
+    "cached": 0.2,
+    "write": 2.5,
+    "output": 10.0,
+    "source": "Optional historical pricing proxy; underlying alias and billing mapping are unverified.",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 4.0,
+        "cached": 0.4,
+        "write": 5.0,
+        "output": 20.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    },
+    "history": [
+      {
+        "from": 0,
+        "model": "gpt-5.6-sol"
+      },
+      {
+        "from": 1790035200,
+        "model": "gpt-6-sol"
+      }
+    ],
+    "note": "Configurable historical proxy. Adjust history and rates to match your own assumptions; this is not a verified billing mapping."
+  },
+  "gpt-reserve": {
+    "input": 0.1,
+    "cached": 0.01,
+    "write": 0.125,
+    "output": 0.5,
+    "source": "Optional historical pricing proxy; underlying alias and billing mapping are unverified.",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 0.2,
+        "cached": 0.02,
+        "write": 0.25,
+        "output": 1.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    },
+    "history": [
+      {
+        "from": 0,
+        "model": "gpt-5.6-luna"
+      },
+      {
+        "from": 1790035200,
+        "model": "gpt-6-luna"
+      }
+    ],
+    "note": "Configurable historical proxy. Adjust history and rates to match your own assumptions; this is not a verified billing mapping."
+  },
+  "codex-auto-review": {
+    "input": 0.1,
+    "cached": 0.01,
+    "write": 0.125,
+    "output": 0.5,
+    "source": "Optional historical pricing proxy; underlying alias and billing mapping are unverified.",
+    "verified": "2026-10-02",
+    "long_threshold": 272000,
+    "tiers": {
+      "fast": {
+        "input": 0.2,
+        "cached": 0.02,
+        "write": 0.25,
+        "output": 1.0,
+        "source": "https://learn.chatgpt.com/docs/agent-configuration/speed",
+        "verified": "2026-10-02",
+        "long_threshold": 272000
+      }
+    },
+    "history": [
+      {
+        "from": 0,
+        "model": "gpt-5.6-luna"
+      },
+      {
+        "from": 1790035200,
+        "model": "gpt-6-luna"
+      }
+    ],
+    "note": "Configurable historical proxy. Adjust history and rates to match your own assumptions; this is not a verified billing mapping."
+  }
+}
